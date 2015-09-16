@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 稱讚淨土佛攝受經
+#+DATE: 2015-08-30 20:02:31.196916
+#+PROPERTY: JUAN 0
