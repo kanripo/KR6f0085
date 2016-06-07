@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:31.413406
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:03
 #+TITLE: 稱讚淨土佛攝受經
 #+PROPERTY: CBETA_ID T12n0367
 #+PROPERTY: ID KR6f0085
