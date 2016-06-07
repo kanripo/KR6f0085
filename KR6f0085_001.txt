@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:31.001886
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:03
 #+TITLE: 稱讚淨土佛攝受經
 #+PROPERTY: CBETA_ID T12n0367
 #+PROPERTY: ID KR6f0085
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 367
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0085_T_000-0348b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6f0085_T_001-0348b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.367[No.366]¶
-
- 稱讚淨土佛攝受經¶
+No. 367 [No. 366]¶
+稱讚淨土佛攝受經¶
 ¶
 大唐三藏法師玄奘奉　詔譯¶
 
@@ -277,8 +276,7 @@ No.367[No.366]¶
 門』。¶
 
 「又，舍利子！若善男子或善女人，或已得聞，或¶
-當得聞，或今得聞，聞是經已，深生信解；生¶
-信解已，必為如是住十方面十殑伽沙諸佛¶
+當得聞，或今得聞，聞是經已，深生信解；生信解已，必為如是住十方面十殑伽沙諸佛¶
 世尊之所攝受；如說行者，一切定於阿耨多¶
 羅三藐三菩提得不退轉，一切定生無量壽¶
 佛極樂世界清淨佛土。是故，舍利子！汝等有¶
